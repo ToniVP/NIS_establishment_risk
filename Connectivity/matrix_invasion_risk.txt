@@ -1,0 +1,19 @@
+	Central Indo-Pacific	Lusitanian	Mediterranean Sea	North East Pacific	Northern European Seas	North West Atlantic	North West Pacific	South East Atlantic	South East Pacific	South West Atlantic	Temperate Australasia	Tropical East Atlantic	Tropical East Pacific	Tropical West Atlantic	Western Indo-Pacific
+Central Indo-Pacific	0.254	0.002	0.296	0.018	0	0.107	0.147	0.072	0	0.044	0.072	0.051	0.124	0.289	0.609
+Lusitanian	0.001	0.008	0.055	0.002	0.004	0.021	0.012	0.047	0	0.031	0.002	0.001	0	0.001	0.002
+Mediterranean Sea	0.27	0.063	0.306	0.05	0.011	0.227	0.491	0.033	0	0.126	0.056	0.009	0.003	0.016	0.045
+North East Pacific	0.017	0.003	0.036	0.031	0.055	0.023	0.399	0.002	0.001	0.006	0.012	0	0.007	0.007	0.004
+Northern European Seas	0	0.004	0.011	0.062	0.13	0.241	0.059	0.008	0.001	0.043	0.013	0	0	0	0
+North West Atlantic	0.099	0.017	0.248	0.033	0.216	0.008	0.154	0.043	0.001	0.125	0.026	0.019	0.013	0.143	0.085
+North West Pacific	0.159	0.024	0.537	0.39	0.061	0.16	0.064	0.073	0.001	0.056	0.18	0.002	0.024	0.052	0.212
+South East Atlantic	0.079	0.049	0.036	0.002	0.009	0.055	0.08	0	0	0.023	0.012	0.017	0.002	0.006	0.045
+South East Pacific	0	0.001	0	0.001	0.002	0	0.004	0	0	0	0	0	0	0	0
+South West Atlantic	0.042	0.032	0.113	0.003	0.04	0.126	0.056	0.028	0	0.001	0.002	0.007	0.002	0.036	0.008
+Temperate Australasia	0.073	0.002	0.046	0.012	0.01	0.021	0.21	0.004	0	0.001	0.025	0	0.002	0.008	0.024
+Tropical East Atlantic	0.036	0.001	0.007	0	0	0.014	0.001	0.015	0	0.008	0	0.006	0.001	0.014	0.021
+Tropical East Pacific	0.094	0	0.004	0.006	0	0.013	0.017	0.001	0	0.002	0.002	0.002	0.005	0.019	0.008
+Tropical West Atlantic	0.289	0.001	0.021	0.004	0	0.147	0.045	0.007	0	0.029	0.011	0.013	0.017	0.167	0.049
+Western Indo-Pacific	0.563	0.006	0.062	0.007	0	0.098	0.154	0.055	0	0.007	0.017	0.024	0.009	0.048	0.129
+Total risk	0.91	0.195	0.887	0.517	0.439	0.747	0.896	0.328	0.005	0.408	0.366	0.142	0.195	0.589	0.801
+Mean time [years]	0.415	4.602	0.46	1.374	1.729	0.727	0.442	2.513	199.061	1.909	2.196	6.543	4.598	1.124	0.619
+Evenness	0.784	0.719	0.742	0.516	0.613	0.833	0.801	0.802	0.717	0.766	0.694	0.731	0.557	0.685	0.621
