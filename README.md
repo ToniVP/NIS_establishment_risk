@@ -26,14 +26,14 @@ DATA AND FOLDERS GENERAL INFORMATION
 		2. All_traits_clean.txt
 		3. Aquaculture_fish.txt
 		4. cumulative_impacts.txt
-		5. dist_matrix_gawdis.R
+		5. dist_matrix_gawdis.R -- could not be uploaded but can be generated with the code
 		6. Final_traits_num.txt
 		7. fish_sp_filtered.txt
-		8. Initial_metrics.txt
-		9. Joint_components.txt
-		10. NIS_risk_metrics.txt
-	2. In *All_species_metrics* subfolder: Generated metrics for all NIS in their potential range. Variable names are the same as in *Initial_metrics.txt*
-	3. In *All_species_metrics_native* subfolder: Generated metrics for all NIS in their native range, used for posterior range corrections. Variable names are the same as in *Initial_metrics.txt*
+		8. Initial_metrics.txt -- could not be uploaded but can be generated with the code
+		9. Joint_components.txt -- could not be uploaded but can be generated with the code
+		10. NIS_risk_metrics.txt -- could not be uploaded but can be generated with the code
+	2. In *All_species_metrics* subfolder: Generated metrics for all NIS in their potential range. Variable names are the same as in *Initial_metrics.txt*. The contents in this folder could 	   not be uploaded but can be generated with the code
+	3. In *All_species_metrics_native* subfolder: Generated metrics for all NIS in their native range, used for posterior range corrections. Variable names are the same as in *Initial_metrics.txt*. The contents in this folder could not be uploaded but can be generated with the code
 	4. In *Connectivity* subfolder:
 		1. matrix_invasion_risk.txt
 		2. Native_regions.R
@@ -44,9 +44,9 @@ DATA AND FOLDERS GENERAL INFORMATION
 		7. risk_matr_ecoreg.R
 		8. risk_matr_province.R
 		9. risk_matr_realm.R
-	5. In *Cumul_impact* subfolder: All TIFF objects corresponding to cumulative human impacts, extracted from Halpern et al (2019) and [Ocean Health Index](https://oceanhealthindex.org/resources/data/cumulative-human-impacts/)
+	5. In *Cumul_impact* subfolder: All TIFF objects corresponding to cumulative human impacts, could not be uploaded but can be extracted from Halpern et al (2019) and [Ocean Health Index](https://oceanhealthindex.org/resources/data/cumulative-human-impacts/)
 	6. In *MEOW* subfolder: Shapefiles corresponding to the [Marine Ecoregions of the World ](https://www.marineregions.org/)(Spalding et. al., 2007)
-	7. In *Models* subfolder: GAMM objects derived from Script *5. Cumulative impacts, MPAs and risk (Fig 5; Fig S4; Table S2)*
+	7. In *Models* subfolder: GAMM objects derived from Script *5. Cumulative impacts, MPAs and risk (Fig 5; Fig S4; Table S2)*. The contents in this folder could not be uploaded but can be generated with the code
 
 2. Relationship between files: 
 	- *Initial_metrics.txt* is derived from all files within the *Data* subfolders *All_species_metrics* and *All_species_metrics_native*. From the *Initial_metrics.txt* file, first we derive the *Joint_components.txt* and finally we obtain the *NIS_risk_metrics.txt* file, which is the final file used to produce all figures. 
