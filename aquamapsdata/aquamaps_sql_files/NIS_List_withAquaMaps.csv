@@ -1,0 +1,129 @@
+Num,Yourdata,Validname,Genus,Species,Author,Family,Order,Class,SpecCode,SpeciesID,OccurCells
+11,Acipenser stellatus ,Acipenser stellatus ,Acipenser,stellatus,"Pallas, 1771",Acipenseridae,Acipenseriformes,Chondrostei,2065,Fis-29592,10
+12,Huso huso ,Huso huso ,Huso,huso,"(Linnaeus, 1758)",Acipenseridae,Acipenseriformes,Chondrostei,2067,Fis-24054,7
+80,Himantura uarnak ,Himantura uarnak ,Himantura,uarnak,"(Gmelin, 1789)",Dasyatidae,Myliobatiformes,Elasmobranchii,5507,Fis-26148,327
+76,Chiloscyllium punctatum ,Chiloscyllium punctatum ,Chiloscyllium,punctatum,"Müller & Henle, 1838",Hemiscylliidae,Orectolobiformes,Elasmobranchii,5903,Fis-31573,176
+73,Acanthurus guttatus ,Acanthurus guttatus ,Acanthurus,guttatus,"Forster, 1801",Acanthuridae,Acanthuriformes,Teleostei,4736,Fis-31078,168
+99,Acanthurus monroviae ,Acanthurus monroviae ,Acanthurus,monroviae,"Steindachner, 1876",Acanthuridae,Acanthuriformes,Teleostei,1800,Fis-29581,122
+55,Naso lituratus ,Naso lituratus ,Naso,lituratus,"(Forster, 1801)",Acanthuridae,Acanthuriformes,Teleostei,1264,Fis-23658,430
+56,Paracanthurus hepatus ,Paracanthurus hepatus ,Paracanthurus,hepatus,"(Linnaeus, 1766)",Acanthuridae,Acanthuriformes,Teleostei,6017,Fis-25955,184
+86,Zebrasoma flavescens ,Zebrasoma flavescens ,Zebrasoma,flavescens,"(Bennett, 1828)",Acanthuridae,Acanthuriformes,Teleostei,6018,Fis-25956,123
+68,Zebrasoma scopas ,Zebrasoma scopas ,Zebrasoma,scopas,"(Cuvier, 1829)",Acanthuridae,Acanthuriformes,Teleostei,5951,Fis-25907,476
+58,Chaetodon ephippium ,Chaetodon ephippium ,Chaetodon,ephippium,"Cuvier, 1831",Chaetodontidae,Acanthuriformes,Teleostei,5562,Fis-31432,389
+52,Chaetodon lunula ,Chaetodon lunula ,Chaetodon,lunula,"(Lacepède, 1802)",Chaetodontidae,Acanthuriformes,Teleostei,5565,Fis-25697,500
+59,Chaetodon rafflesii ,Chaetodon rafflesii ,Chaetodon,rafflesii,"Anonymous [Bennett], 1830",Chaetodontidae,Acanthuriformes,Teleostei,5573,Fis-31442,215
+53,Chaetodon vagabundus ,Chaetodon vagabundus ,Chaetodon,vagabundus,"Linnaeus, 1758",Chaetodontidae,Acanthuriformes,Teleostei,5582,Fis-31451,515
+85,Chelmon rostratus ,Chelmon rostratus ,Chelmon,rostratus,"(Linnaeus, 1758)",Chaetodontidae,Acanthuriformes,Teleostei,5483,Fis-25650,258
+133,Heniochus intermedius ,Heniochus intermedius ,Heniochus,intermedius,"Steindachner, 1893",Chaetodontidae,Acanthuriformes,Teleostei,12309,Fis-35097,47
+54,Heniochus singularius ,Heniochus singularius ,Heniochus,singularius,"Smith & Radcliffe, 1911",Chaetodontidae,Acanthuriformes,Teleostei,5591,Fis-31456,181
+92,Heniochus varius ,Heniochus varius ,Heniochus,varius,"(Cuvier, 1829)",Chaetodontidae,Acanthuriformes,Teleostei,5592,Fis-25702,241
+94,Parachaetodon ocellatus ,Parachaetodon ocellatus ,Parachaetodon,ocellatus,"(Cuvier, 1831)",Chaetodontidae,Acanthuriformes,Teleostei,7887,Fis-26749,299
+83,Equulites klunzingeri ,Equulites klunzingeri ,Equulites,klunzingeri,"(Steindachner, 1898)",Leiognathidae,Acanthuriformes,Teleostei,27024,Fis-161057,6
+46,Apolemichthys trimaculatus ,Apolemichthys trimaculatus ,Apolemichthys,trimaculatus,"(Cuvier, 1831)",Pomacanthidae,Acanthuriformes,Teleostei,6525,Fis-26169,175
+91,Pomacanthus annularis ,Pomacanthus annularis ,Pomacanthus,annularis,"(Bloch, 1787)",Pomacanthidae,Acanthuriformes,Teleostei,7902,Fis-26756,87
+87,Pomacanthus imperator ,Pomacanthus imperator ,Pomacanthus,imperator,"(Bloch, 1787)",Pomacanthidae,Acanthuriformes,Teleostei,6504,Fis-26162,449
+88,Pygoplites diacanthus ,Pygoplites diacanthus ,Pygoplites,diacanthus,"(Boddaert, 1772)",Pomacanthidae,Acanthuriformes,Teleostei,6572,Fis-26195,441
+17,Siganus luridus ,Siganus luridus ,Siganus,luridus,"(Rüppell, 1829)",Siganidae,Acanthuriformes,Teleostei,4613,Fis-25216,66
+23,Siganus rivulatus ,Siganus rivulatus ,Siganus,rivulatus,"Forsskål & Niebuhr, 1775",Siganidae,Acanthuriformes,Teleostei,4545,Fis-31011,37
+75,Zanclus cornutus ,Zanclus cornutus ,Zanclus,cornutus,"(Linnaeus, 1758)",Zanclidae,Acanthuriformes,Teleostei,5950,Fis-25906,789
+110,Pempheris vanicolensis ,Pempheris vanicolensis ,Pempheris,vanicolensis,"Cuvier, 1831",Pempheridae,Acropomatiformes,Teleostei,10350,Fis-33880,86
+34,Conger conger ,Conger conger ,Conger,conger,"(Linnaeus, 1758)",Congridae,Anguilliformes,Teleostei,301,Fis-22866,719
+112,Muraenesox cinereus ,Muraenesox cinereus ,Muraenesox,cinereus,"(Forsskål, 1775)",Muraenesocidae,Anguilliformes,Teleostei,298,Fis-22912,133
+143,Atherinomorus forskalii ,Atherinomorus forskalii ,Atherinomorus,forskalii,"(Rüppell, 1838)",Atherinidae,Atheriniformes,Teleostei,66821,Fis-167828,5
+113,Atherinomorus lacunosus ,Atherinomorus lacunosus ,Atherinomorus,lacunosus,"(Forster, 1801)",Atherinidae,Atheriniformes,Teleostei,1303,Fis-23385,300
+144,Saurida lessepsianus ,Saurida lessepsianus ,Saurida,lessepsianus,"Russell, Golani & Tikochinski, 2015",Synodontidae,Aulopiformes,Teleostei,67904,Fis-170953,7
+103,Saurida undosquamis ,Saurida undosquamis ,Saurida,undosquamis,"(Richardson, 1848)",Synodontidae,Aulopiformes,Teleostei,1055,Fis-23792,475
+114,Parexocoetus mento ,Parexocoetus mento ,Parexocoetus,mento,"(Valenciennes, 1847)",Exocoetidae,Beloniformes,Teleostei,4904,Fis-53382,184
+115,Hemiramphus far ,Hemiramphus far ,Hemiramphus,far,"(Fabricius, 1775)",Hemiramphidae,Beloniformes,Teleostei,5404,Fis-25608,210
+128,Hyporhamphus affinis ,Hyporhamphus affinis ,Hyporhamphus,affinis,"(Günther, 1866)",Hemiramphidae,Beloniformes,Teleostei,7710,Fis-26655,113
+78,Omobranchus punctatus ,Omobranchus punctatus ,Omobranchus,punctatus,"(Valenciennes, 1836)",Blenniidae,Blenniiformes,Teleostei,7566,Fis-26596,103
+136,Petroscirtes ancylodon ,Petroscirtes ancylodon ,Petroscirtes,ancylodon,"Rüppell, 1835",Blenniidae,Blenniiformes,Teleostei,46423,Fis-113043,18
+95,Petroscirtes breviceps ,Petroscirtes breviceps ,Petroscirtes,breviceps,"(Valenciennes, 1836)",Blenniidae,Blenniiformes,Teleostei,6073,Fis-25997,145
+101,Forsterygion lapillum ,Forsterygion lapillum ,Forsterygion,lapillum,"Hardy, 1989",Tripterygiidae,Blenniiformes,Teleostei,12940,Fis-35422,43
+102,Forsterygion varium ,Forsterygion varium ,Forsterygion,varium,"(Forster, 1801)",Tripterygiidae,Blenniiformes,Teleostei,46992,Fis-114184,59
+39,Callionymus filamentosus ,Callionymus filamentosus ,Callionymus,filamentosus,"Valenciennes, 1837",Callionymidae,Callionymiformes,Teleostei,225,Fis-29312,74
+66,Lates calcarifer ,Lates calcarifer ,Lates,calcarifer,"(Bloch, 1790)",Latidae,Carangaria/misc,Teleostei,346,Fis-22888,231
+24,Sphyraena chrysotaenia ,Sphyraena chrysotaenia ,Sphyraena,chrysotaenia,"Klunzinger, 1884",Sphyraenidae,Carangaria/misc,Teleostei,16905,Fis-50441,50
+26,Sphyraena flavicauda ,Sphyraena flavicauda ,Sphyraena,flavicauda,"Rüppell, 1838",Sphyraenidae,Carangaria/misc,Teleostei,7937,Fis-32588,171
+30,Alepes djedaba ,Alepes djedaba ,Alepes,djedaba,"(Fabricius, 1775)",Carangidae,Carangiformes,Teleostei,1889,Fis-23325,243
+129,Decapterus russelli ,Decapterus russelli ,Decapterus,russelli,"(Rüppell, 1830)",Carangidae,Carangiformes,Teleostei,374,Fis-22872,666
+104,Seriola fasciata ,Seriola fasciata ,Seriola,fasciata,"(Bloch, 1793)",Carangidae,Carangiformes,Teleostei,1006,Fis-23807,109
+122,Terapon puta ,Terapon puta ,Terapon,puta,"Cuvier, 1829",Terapontidae,Centrarchiformes,Teleostei,7946,Fis-26779,159
+35,Alosa fallax ,Alosa fallax ,Alosa,fallax,"(Lacepède, 1803)",Alosidae,Clupeiformes,Teleostei,5355,Fis-25577,466
+9,Alosa sapidissima ,Alosa sapidissima ,Alosa,sapidissima,"(Wilson, 1811)",Alosidae,Clupeiformes,Teleostei,1584,Fis-23335,304
+154,Dorosoma petenense ,Dorosoma petenense ,Dorosoma,petenense,"(Günther, 1867)",Dorosomatidae,Clupeiformes,Teleostei,1606,Fis-23482,96
+116,Herklotsichthys punctatus ,Herklotsichthys punctatus ,Herklotsichthys,punctatus,"(Rüppell, 1837)",Dorosomatidae,Clupeiformes,Teleostei,1493,Fis-23542,12
+127,Dussumieria elopsoides ,Dussumieria elopsoides ,Dussumieria,elopsoides,"Bleeker, 1849",Dussumieriidae,Clupeiformes,Teleostei,1454,Fis-29925,271
+148,Iniistius pavo ,Iniistius pavo ,Iniistius,pavo,"(Valenciennes, 1840)",Labridae,Eupercaria/misc,Teleostei,5613,Fis-7176,204
+84,Iniistius twistii ,Iniistius twistii ,Iniistius,twistii,"(Bleeker, 1856)",Labridae,Eupercaria/misc,Teleostei,23536,Fis-166561,16
+134,Pteragogus pelycus ,Pteragogus pelycus ,Pteragogus,pelycus,"Randall, 1981",Labridae,Eupercaria/misc,Teleostei,8023,Fis-32638,15
+70,Lutjanus analis ,Lutjanus analis ,Lutjanus,analis,"(Cuvier, 1828)",Lutjanidae,Eupercaria/misc,Teleostei,1403,Fis-23611,274
+147,Lutjanus fulviflamma ,Lutjanus fulviflamma ,Lutjanus,fulviflamma,"(Forsskål, 1775)",Lutjanidae,Eupercaria/misc,Teleostei,261,Fis-146035,629
+7,Lutjanus kasmira ,Lutjanus kasmira ,Lutjanus,kasmira,"(Fabricius, 1775)",Lutjanidae,Eupercaria/misc,Teleostei,156,Fis-22783,645
+51,Monodactylus argenteus ,Monodactylus argenteus ,Monodactylus,argenteus,"(Linnaeus, 1758)",Monodactylidae,Eupercaria/misc,Teleostei,5807,Fis-25824,347
+31,Morone americana ,Morone americana ,Morone,americana,"(Gmelin, 1789)",Moronidae,Eupercaria/misc,Teleostei,355,Fis-22910,106
+1,Morone saxatilis ,Morone saxatilis ,Morone,saxatilis,"(Walbaum, 1792)",Moronidae,Eupercaria/misc,Teleostei,353,Fis-22911,164
+131,Nemipterus randalli ,Nemipterus randalli ,Nemipterus,randalli,"Russell, 1986",Nemipteridae,Eupercaria/misc,Teleostei,5852,Fis-31555,64
+146,Priacanthus hamrur ,Priacanthus hamrur ,Priacanthus,hamrur,"(Fabricius, 1775)",Priacanthidae,Eupercaria/misc,Teleostei,5791,Fis-25818,501
+135,Scarus ghobban ,Scarus ghobban ,Scarus,ghobban,"Fabricius, 1775",Scaridae,Eupercaria/misc,Teleostei,5548,Fis-31420,649
+149,Sparisoma cretense ,Sparisoma cretense ,Sparisoma,cretense,"(Linnaeus, 1758)",Scaridae,Eupercaria/misc,Teleostei,13025,Fis-28736,99
+20,Micropogonias undulatus ,Micropogonias undulatus ,Micropogonias,undulatus,"(Linnaeus, 1766)",Sciaenidae,Eupercaria/misc,Teleostei,408,Fis-23190,294
+120,Sillago sihama ,Sillago sihama ,Sillago,sihama,"(Fabricius, 1775)",Sillaginidae,Eupercaria/misc,Teleostei,4544,Fis-25177,401
+121,Crenidens crenidens ,Crenidens crenidens ,Crenidens,crenidens,"(Forsskål, 1775)",Sparidae,Eupercaria/misc,Teleostei,7931,Fis-26772,57
+132,Rhabdosargus haffara ,Rhabdosargus haffara ,Rhabdosargus,haffara,"(Fabricius, 1775)",Sparidae,Eupercaria/misc,Teleostei,8166,Fis-26883,26
+79,Sparus aurata ,Sparus aurata ,Sparus,aurata,"Linnaeus, 1758",Sparidae,Eupercaria/misc,Teleostei,1164,Fis-6123,201
+117,Bregmaceros atlanticus ,Bregmaceros atlanticus ,Bregmaceros,atlanticus,"Goode & Bean, 1886",Bregmacerotidae,Gadiformes,Teleostei,3100,Fis-29738,464
+36,Micromesistius poutassou ,Micromesistius poutassou ,Micromesistius,poutassou,"(Risso, 1827)",Gadidae,Gadiformes,Teleostei,31,Fis-22729,693
+96,Acanthogobius flavimanus ,Acanthogobius flavimanus ,Acanthogobius,flavimanus,"(Temminck & Schlegel, 1845)",Gobiidae,Gobiiformes,Teleostei,3832,Fis-24398,45
+40,Gobius cruentatus ,Gobius cruentatus ,Gobius,cruentatus,"Gmelin, 1789",Gobiidae,Gobiiformes,Teleostei,7648,Fis-32466,81
+41,Knipowitschia caucasica ,Knipowitschia caucasica ,Knipowitschia,caucasica,"(Berg, 1916)",Gobiidae,Gobiiformes,Teleostei,14505,Fis-35869,29
+13,Neogobius melanostomus ,Neogobius melanostomus ,Neogobius,melanostomus,"(Pallas, 1814)",Gobiidae,Gobiiformes,Teleostei,12019,Fis-28308,25
+118,Oxyurichthys papuensis ,Oxyurichthys papuensis ,Oxyurichthys,papuensis,"(Valenciennes, 1837)",Gobiidae,Gobiiformes,Teleostei,8030,Fis-26811,54
+81,Sargocentron rubrum ,Sargocentron rubrum ,Sargocentron,rubrum,"(Forsskål, 1775)",Holocentridae,Holocentriformes,Teleostei,6625,Fis-26225,597
+141,Apogonichthyoides pharaonis ,Apogonichthyoides pharaonis ,Apogonichthyoides,pharaonis,"(Bellotti, 1874)",Apogonidae,Kurtiformes,Teleostei,60362,Fis-163617,10
+140,Jaydia smithi ,Jaydia smithi ,Jaydia,smithi,"Kotthaus, 1970",Apogonidae,Kurtiformes,Teleostei,59514,Fis-145253,45
+142,Ostorhinchus fasciatus ,Ostorhinchus fasciatus ,Ostorhinchus,fasciatus,"(White, 1790)",Apogonidae,Kurtiformes,Teleostei,6605,Fis-166701,568
+109,Parupeneus forsskali ,Parupeneus forsskali ,Parupeneus,forsskali,"(Fourmanoir & Guézé, 1976)",Mullidae,Mulliformes,Teleostei,10994,Fis-28023,63
+105,Upeneus moluccensis ,Upeneus moluccensis ,Upeneus,moluccensis,"(Bleeker, 1855)",Mullidae,Mulliformes,Teleostei,4444,Fis-25118,306
+138,Upeneus pori ,Upeneus pori ,Upeneus,pori,"Ben-Tuvia & Golani, 1989",Mullidae,Mulliformes,Teleostei,46375,Fis-112902,16
+5,Osmerus mordax ,Osmerus mordax ,Osmerus,mordax,"(Mitchill, 1814)",Osmeridae,Osmeriformes,Teleostei,253,Fis-22922,311
+151,Abudefduf vaigiensis ,Abudefduf vaigiensis ,Abudefduf,vaigiensis,"(Quoy & Gaimard, 1825)",Pomacentridae,Ovalentaria/misc,Teleostei,6630,Fis-26228,565
+64,Amphiprion ocellaris ,Amphiprion ocellaris ,Amphiprion,ocellaris,"Cuvier, 1830",Pomacentridae,Ovalentaria/misc,Teleostei,6509,Fis-31857,162
+89,Dascyllus aruanus ,Dascyllus aruanus ,Dascyllus,aruanus,"(Linnaeus, 1758)",Pomacentridae,Ovalentaria/misc,Teleostei,5110,Fis-25465,524
+72,Dascyllus trimaculatus ,Dascyllus trimaculatus ,Dascyllus,trimaculatus,"(Rüppell, 1829)",Pomacentridae,Ovalentaria/misc,Teleostei,5112,Fis-25466,570
+61,Pomacentrus coelestis ,Pomacentrus coelestis ,Pomacentrus,coelestis,"Jordan & Starks, 1901",Pomacentridae,Ovalentaria/misc,Teleostei,5720,Fis-31497,396
+37,Gasterosteus aculeatus ,Gasterosteus aculeatus ,Gasterosteus,aculeatus,"Linnaeus, 1758",Gasterosteidae,Perciformes/Gasterosteoidei,Teleostei,2420,Fis-30039,1569
+124,Platycephalus indicus ,Platycephalus indicus ,Platycephalus,indicus,"(Linnaeus, 1758)",Platycephalidae,Perciformes/Scorpaenoidei,Teleostei,950,Fis-21594,287
+49,Pterois antennata ,Pterois antennata ,Pterois,antennata,"(Bloch, 1787)",Scorpaenidae,Perciformes/Scorpaenoidei,Teleostei,4914,Fis-25380,414
+108,Pterois miles ,Pterois miles ,Pterois,miles,"(Bennett, 1828)",Scorpaenidae,Perciformes/Scorpaenoidei,Teleostei,7797,Fis-26701,156
+50,Pterois radiata ,Pterois radiata ,Pterois,radiata,"Cuvier, 1829",Scorpaenidae,Perciformes/Scorpaenoidei,Teleostei,4913,Fis-31143,215
+2,Pterois volitans ,Pterois volitans ,Pterois,volitans,"(Linnaeus, 1758)",Scorpaenidae,Perciformes/Scorpaenoidei,Teleostei,5195,Fis-25511,453
+63,Pseudanthias pleurotaenia ,Pseudanthias pleurotaenia ,Pseudanthias,pleurotaenia,"(Bleeker, 1857)",Anthiadidae,Perciformes/Serranoidei,Teleostei,6569,Fis-26192,78
+29,Cephalopholis argus ,Cephalopholis argus ,Cephalopholis,argus,"Schneider, 1801",Epinephelidae,Perciformes/Serranoidei,Teleostei,6396,Fis-31823,645
+90,Epinephelus fuscoguttatus ,Epinephelus fuscoguttatus ,Epinephelus,fuscoguttatus,"(Forsskål, 1775)",Epinephelidae,Perciformes/Serranoidei,Teleostei,4460,Fis-25130,250
+67,Epinephelus ongus ,Epinephelus ongus ,Epinephelus,ongus,"(Bloch, 1790)",Epinephelidae,Perciformes/Serranoidei,Teleostei,6472,Fis-26141,213
+62,Diploprion bifasciatum ,Diploprion bifasciatum ,Diploprion,bifasciatum,"Cuvier, 1828",Liopropomatidae,Perciformes/Serranoidei,Teleostei,6603,Fis-31891,241
+123,Cynoglossus sinusarabici ,Cynoglossus sinusarabici ,Cynoglossus,sinusarabici,"(Chabanaud, 1931)",Cynoglossidae,Pleuronectiformes,Teleostei,16281,Fis-48989,7
+6,Oncorhynchus gorbuscha ,Oncorhynchus gorbuscha ,Oncorhynchus,gorbuscha,"(Walbaum, 1792)",Salmonidae,Salmoniformes,Teleostei,240,Fis-22915,309
+10,Oncorhynchus kisutch ,Oncorhynchus kisutch ,Oncorhynchus,kisutch,"(Walbaum, 1792)",Salmonidae,Salmoniformes,Teleostei,245,Fis-22917,402
+19,Oncorhynchus mykiss ,Oncorhynchus mykiss ,Oncorhynchus,mykiss,"(Walbaum, 1792)",Salmonidae,Salmoniformes,Teleostei,239,Fis-22919,144
+4,Salmo salar ,Salmo salar ,Salmo,salar,"Linnaeus, 1758",Salmonidae,Salmoniformes,Teleostei,236,Fis-29501,767
+71,Salmo trutta ,Salmo trutta ,Salmo,trutta,"Linnaeus, 1758",Salmonidae,Salmoniformes,Teleostei,238,Fis-21630,659
+14,Salvelinus fontinalis ,Salvelinus fontinalis ,Salvelinus,fontinalis,"(Mitchill, 1814)",Salmonidae,Salmoniformes,Teleostei,246,Fis-22950,149
+106,Scomberomorus commerson ,Scomberomorus commerson ,Scomberomorus,commerson,"(Lacepède, 1800)",Scombridae,Scombriformes,Teleostei,121,Fis-22820,573
+44,Pampus argenteus ,Pampus argenteus ,Pampus,argenteus,"(Euphrasen, 1788)",Stromateidae,Scombriformes,Teleostei,491,Fis-23209,121
+45,Plotosus lineatus ,Plotosus lineatus ,Plotosus,lineatus,"(Thunberg, 1787)",Plotosidae,Siluriformes,Teleostei,4706,Fis-132793,491
+27,Fistularia commersonii ,Fistularia commersonii ,Fistularia,commersonii,"Rüppell, 1838",Fistulariidae,Syngnathiformes,Teleostei,5444,Fis-31390,670
+48,Dunckerocampus dactyliophorus ,Dunckerocampus dactyliophorus ,Dunckerocampus,dactyliophorus,"(Bleeker, 1853)",Syngnathidae,Syngnathiformes,Teleostei,5972,Fis-53099,166
+60,Hippocampus coronatus ,Hippocampus coronatus ,Hippocampus,coronatus,"Temminck & Schlegel, 1850",Syngnathidae,Syngnathiformes,Teleostei,23141,Fis-53157,13
+47,Hippocampus kuda ,Hippocampus kuda ,Hippocampus,kuda,"Bleeker, 1852",Syngnathidae,Syngnathiformes,Teleostei,5955,Fis-31608,225
+74,Rhinecanthus aculeatus ,Rhinecanthus aculeatus ,Rhinecanthus,aculeatus,"(Linnaeus, 1758)",Balistidae,Tetraodontiformes,Teleostei,5839,Fis-25847,371
+107,Stephanolepis diaspros ,Stephanolepis diaspros ,Stephanolepis,diaspros,"Fraser-Brunner, 1940",Monacanthidae,Tetraodontiformes,Teleostei,14343,Fis-35818,14
+57,Lactoria cornuta ,Lactoria cornuta ,Lactoria,cornuta,"(Linnaeus, 1758)",Ostraciidae,Tetraodontiformes,Teleostei,6399,Fis-26096,320
+137,Lagocephalus guentheri ,Lagocephalus guentheri ,Lagocephalus,guentheri,"Miranda Ribeiro, 1915",Tetraodontidae,Tetraodontiformes,Teleostei,28209,Fis-64430,68
+28,Lagocephalus sceleratus ,Lagocephalus sceleratus ,Lagocephalus,sceleratus,"(Gmelin, 1789)",Tetraodontidae,Tetraodontiformes,Teleostei,4761,Fis-25293,480
+125,Lagocephalus spadiceus ,Lagocephalus spadiceus ,Lagocephalus,spadiceus,"(Richardson, 1845)",Tetraodontidae,Tetraodontiformes,Teleostei,8180,Fis-26889,245
+82,Lagocephalus suezensis ,Lagocephalus suezensis ,Lagocephalus,suezensis,"Clark & Gohar, 1953",Tetraodontidae,Tetraodontiformes,Teleostei,55076,Fis-134084,9
+25,Sphoeroides pachygaster ,Sphoeroides pachygaster ,Sphoeroides,pachygaster,"(Müller & Troschel, 1848)",Tetraodontidae,Tetraodontiformes,Teleostei,4296,Fis-25001,636
+65,Takifugu rubripes ,Takifugu rubripes ,Takifugu,rubripes,"(Temminck & Schlegel, 1850)",Tetraodontidae,Tetraodontiformes,Teleostei,8198,Fis-26899,23
+111,Torquigener flavimaculosus ,Torquigener flavimaculosus ,Torquigener,flavimaculosus,"Hardy & Randall, 1983",Tetraodontidae,Tetraodontiformes,Teleostei,26639,Fis-60581,42
