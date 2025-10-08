@@ -33,8 +33,8 @@ mean_matrix = function(x){
   return(y)
 } 
 
-# Function to standardize (only if needed) ----
-standr = function(x){(x-min(x))/(max(x)-min(x))} #Function to standardize
+# Function to scale (only if needed) ----
+standr = function(x){(x-min(x))/(max(x)-min(x))} #Function to scale
 
 # Function to calculate the overall pairwise matrix of functional distances for the regional species pool in an integrated way ----
 funct_distances = function(TRAITS, trait){
@@ -198,3 +198,4 @@ clean_sp_in_cell = function(x){
 risk_aggregation = function(risk){agg_risk = 1 - prod(1 - risk); return(agg_risk)}
 
 #"risk" accounts for the column name that corresponds to the specific port-to-port connectivity value assigned to each cell
+
